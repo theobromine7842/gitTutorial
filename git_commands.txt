@@ -1,1 +1,4 @@
-git
+git status
+git add <filename>
+git commit -m "added git_commands.txt"
+git push

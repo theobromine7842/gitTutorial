@@ -1,4 +1,9 @@
 git status
-git add <filename>
+git add <filename> 
+	OR git add -A
+	OR git add .
 git commit -m "added git_commands.txt"
 git push
+git pull
+
+esc :wq
